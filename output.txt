@@ -1,0 +1,67 @@
+Lamanas-MacBook-Pro:Freelancer lamanamulaffer$ python3 playGame.py 
+Testing
+------------------
+------------------
+
+Test #1 - full sequence
+Rolling Sequence :>  [1, 9, 9, 1, 8, 2, 1, 0, 2, 0, 7, 2, 3, 7, 4, 6, 10, 0, 5, 0]
+Scoring Bowling Game
+---------------------
+---------------------
+
+Processing Frame # 0 : pins knocked:>  [1, 9] , overall score =  10
+
+Processing Frame # 1 : pins knocked:>  [9, 1] , overall score =  29
+
+Processing Frame # 2 : pins knocked:>  [8, 2] , overall score =  47
+
+Processing Frame # 3 : pins knocked:>  [1, 0] , overall score =  49
+
+Processing Frame # 4 : pins knocked:>  [2, 0] , overall score =  51
+
+Processing Frame # 5 : pins knocked:>  [7, 2] , overall score =  60
+
+Processing Frame # 6 : pins knocked:>  [3, 7] , overall score =  70
+
+Processing Frame # 7 : pins knocked:>  [4, 6] , overall score =  84
+
+Processing Frame # 8 : pins knocked:>  [10, 0] , overall score =  104
+
+Processing Frame # 9 : pins knocked:>  [5, 0] , overall score =  114
+
+-------------------------
+-------------------------
+
+Final Score =  114
+
+Test #2 - shorter sequence
+Rolling Sequence :>  [5, 2, 9, 1, 0, 1, 3, 0, 8, 0, 6, 2, 6, 1, 1, 8, 0]
+Scoring Bowling Game
+---------------------
+---------------------
+
+Processing Frame # 0 : pins knocked:>  [5, 2] , overall score =  7
+
+Processing Frame # 1 : pins knocked:>  [9, 1] , overall score =  17
+
+Processing Frame # 2 : pins knocked:>  [0, 1] , overall score =  18
+
+Processing Frame # 3 : pins knocked:>  [3, 0] , overall score =  21
+
+Processing Frame # 4 : pins knocked:>  [8, 0] , overall score =  29
+
+Processing Frame # 5 : pins knocked:>  [6, 2] , overall score =  37
+
+Processing Frame # 6 : pins knocked:>  [6, 1] , overall score =  44
+
+Processing Frame # 7 : pins knocked:>  [1, 8] , overall score =  53
+
+Processing Frame # 8 : pins knocked:>  [0] , overall score =  53
+
+-------------------------
+-------------------------
+
+Final Score =  53
+
+
+Lamanas-MacBook-Pro:Freelancer lamanamulaffer$ 
